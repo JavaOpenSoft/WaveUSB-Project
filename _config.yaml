@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
 title: Octocat's homepage
 description: The WaveUSB Project programmed in shell(or batch for Windows) and java. A user friendly alternative to Rufus
+lsi: false
+safe: true
+source: RishonDev/waveusb.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
