@@ -3,7 +3,7 @@ Welcome to the WaveUSB Project website. Please note that downloading source code
 
 #Documentation section
 
-This place is being worked on. to know when it will release, check the Release schedule below
+*This place is being worked on. to know when it will release, check the Release schedule below*
 
 A User friendly alternative to rufus, programmed fully in java and shell.
 
