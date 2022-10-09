@@ -4,7 +4,7 @@ Welcome to the WaveUSB Project website. Please note that downloading source code
 # Documentation section
 
 *This place is being worked on. to know when it will release, check the Release schedule below*
-
+# Preview
 A User friendly alternative to rufus, programmed fully in java and shell.
 
 <img width="647" alt="Screenshot 2022-08-31 at 9 56 58 AM" src="https://user-images.githubusercontent.com/66567635/187592725-1aa95805-85b8-4947-a10b-006c770d1e8e.png">
