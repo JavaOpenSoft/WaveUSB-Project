@@ -1,3 +1,5 @@
+UPDATE: This project has been sunsetted. Find out it's successor here: https://github.com/RishonDev/AstraWriter
+
 ## This project is powered by [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 ![IntelliJ_IDEA_icon](https://user-images.githubusercontent.com/66567635/212363842-ce760559-afa0-48ef-8db7-952aa3085427.png) \
 Copyright © 2023 JetBrains s.r.o. IntelliJ and the IntelliJ logo are registered trademarks of JetBrains s.r.o.
